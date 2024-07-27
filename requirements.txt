@@ -1,0 +1,7 @@
+discord
+datetime
+pytz
+asyncio
+python-dotenv
+re
+blagues_api
