@@ -1,1 +1,3 @@
-# Ink-And-Co
+# Ink & Co
+
+`Prochainement... ⌛`
